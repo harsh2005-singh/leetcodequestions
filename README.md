@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0053-maximum-subarray) |
+| [0283-move-zeroes](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harsh2005-singh/leetcodequestions/tree/master/1140-stone-game-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsh2005-singh/leetcodequestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
