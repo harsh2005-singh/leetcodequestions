@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0053-maximum-subarray) |
+| [0268-missing-number](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0877-stone-game) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harsh2005-singh/leetcodequestions/tree/master/1140-stone-game-ii) |
@@ -66,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsh2005-singh/leetcodequestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/harsh2005-singh/leetcodequestions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsh2005-singh/leetcodequestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/harsh2005-singh/leetcodequestions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -133,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harsh2005-singh/leetcodequestions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
