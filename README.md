@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/harsh2005-singh/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/harsh2005-singh/leetcodequestions/tree/master/1207-unique-number-of-occurrences) |
 | [1406-stone-game-iii](https://github.com/harsh2005-singh/leetcodequestions/tree/master/1406-stone-game-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/harsh2005-singh/leetcodequestions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsh2005-singh/leetcodequestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/harsh2005-singh/leetcodequestions/tree/master/3731-find-missing-elements) |
 ## Math
